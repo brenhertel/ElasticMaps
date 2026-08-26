@@ -1,6 +1,8 @@
 # ElasticMaps
  Implementations of Elastic Maps for Trajectory Learning from Demonstration.
 
+Elastic Maps is now a PyPI package! See on [PyPI](https://pypi.org/project/PolyElmap/) or [Github](https://github.com/brenhertel/PolyElmap) for details.
+
 This repository implements Elastic Maps, specifically polyline Elastic Maps for robot trajectories. Two versions are implemented, using a matrix-inversion least squares approach as well as a convex optimization approach. For further details and references please see the following papers:
 
 "Robot Learning from Demonstration Using Elastic Maps" by B. Hertel, M. Pelland, and S. R. Ahmadzadeh, available [here](https://arxiv.org/abs/2208.02207).
